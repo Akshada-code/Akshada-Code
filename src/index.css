@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  /* width: 100%;
+  max-width: 430px; */
+  /* height: 800px; */
+  /* margin: 0 auto; */
+  /* top: -25827px;
+  left: 136px;   */
+  font-family: Nunito;
+  -webkit-font-smoothing: antialiased;
+  background-color: #191919;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* input {
+  width: 100% !important;
+  max-width: 430px !important;
+} */
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
